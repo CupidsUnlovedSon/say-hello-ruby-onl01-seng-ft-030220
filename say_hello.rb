@@ -5,5 +5,4 @@ def say_hello(name)
 end
 
 def say_hello_ruby(name = "Ruby Programmer")
-  puts "Hello Ruby Programmer #{name}"
 end
